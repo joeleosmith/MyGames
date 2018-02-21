@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Monopoly/Source"/>
+	<classpathentry kind="lib" path="JavaMonopoly/Game Images.jar"/>
+	<classpathentry kind="lib" path="JavaMonopoly/jre/dx.jar"/>
+	<classpathentry kind="lib" path="JavaMonopoly/jre/heagy1.7.jar"/>
+	<classpathentry kind="lib" path="JavaMonopoly/jre/jbcl.jar"/>
+	<classpathentry kind="lib" path="JavaMonopoly/Monopoly.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
